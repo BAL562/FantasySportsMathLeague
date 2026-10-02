@@ -47,8 +47,6 @@ If you use this dataset, please cite:
 
 > Laris, B.A., & Ferreira, A. (2026). *Fantasy Sports for Good: Reclaiming the Analytics Playbook to Close the Math Equity Gap.* MIT Sloan Sports Analytics Conference 2027, Business of Sports Track. [link to abstract/paper when available]
 
-> **TODO:** Add a DOI or permanent link once assigned (e.g., via Zenodo or OSF, which can mint a DOI for a GitHub release).
-
 ## License — Non-Commercial Research Use (CC BY-NC 4.0)
 
 This repository (code and documentation) is publicly visible to satisfy the MIT SSAC 2027 open-source submission requirement. The dataset (`FSML_QED_data_deidentified.csv`) is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**:
@@ -59,15 +57,12 @@ This repository (code and documentation) is publicly visible to satisfy the MIT 
 - This restriction applies regardless of the de-identification steps already taken, given the small sample size and the population studied (minors, under an active IRB protocol).
 - Full license text: https://creativecommons.org/licenses/by-nc/4.0/ (also included in this repo's `LICENSE` file, along with the commercial-use contact clause above)
 
-> **TODO:** Confirm this wording with your institution's IRB/data governance office before publishing.
-
 ## Contact
 
 Questions about the dataset or methodology, and requests for permission to use the data, can be directed to:
 
-> B.A. Laris and Alamim Ferreira, dfusion Inc.
+> B.A. Laris, dfusion Inc.
 > ba.laris@dfusioninc.com
 
-## Acknowledgments
 
-> **TODO:** Add funding source(s) or program acknowledgments (e.g., dfusion, IES-SBIR), if applicable and if disclosure is required or desired.
+
